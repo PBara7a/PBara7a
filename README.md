@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbara7a&count_private=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbara7a&count_private=true&theme=monokai)
 
 <!--
 **PBara7a/PBara7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
