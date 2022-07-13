@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barata</h1>
 <h3 align="center">A full stack developer based in Belfast.</h3>
 
-- 🔭 I’m currently working on [Cohort-Manager](https://github.com/boolean-uk/team-dev-server)
+- 🔭 I’m currently working on [Rustychain](https://github.com/PBara7a/rustychain) and [Cohort-Manager](https://github.com/boolean-uk/team-dev-server)
 
 - 🌱 I’m currently learning **Blockchain Technology**
 
