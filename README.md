@@ -27,7 +27,11 @@
  
 <h3>Stats:</h3>
 
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pbara7a&theme=monokai) &nbsp; &nbsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pbara7a&count_private=true&theme=monokai&show_icons=true)
+<p align="center">
+  <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pbara7a&theme=monokai" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pbara7a&count_private=true&theme=monokai&show_icons=true" width="45%">
+</p>
 
 
 <!--
