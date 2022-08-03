@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Barata</h1>
 <h3 align="center">A full stack developer based in Belfast.</h3>
 
-- 🔭 I’m currently working on [Rustychain](https://github.com/PBara7a/rustychain) and [Cohort-Manager](https://github.com/boolean-uk/team-dev-server)
+- 🔭 I’m currently working on [Chat In The Box](https://github.com/PBara7a/chat-app-client). And also a Node script that automates some google sheet file editing (read, copy, edit, merge cells/rows).
 
-- 🌱 I’m currently learning **Blockchain Technology**
+- 🌱 I’m currently learning **Websockets**
+
+- 🤔 I’m looking for help with finding an opportunity to start my career in tech.
+
+- 📫 How to reach me: [Link text Here](https://www.linkedin.com/in/paulo-barata/)
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: ...
 
 <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/paulo-barata" target="blank">
