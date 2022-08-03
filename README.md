@@ -7,11 +7,11 @@
 
 - 🤔 I’m looking for help with finding an opportunity to start my career in tech.
 
-- 📫 How to reach me: [Link text Here](https://www.linkedin.com/in/paulo-barata/)
+- 📫 How to reach me: [Message me](https://www.linkedin.com/in/paulo-barata/)
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: A one-day-old cockroach can run almost as fast as its parents!
 
 <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/paulo-barata" target="blank">
