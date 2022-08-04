@@ -37,6 +37,8 @@
  
 <h3>Stats:</h3>
 
+<img align="center" src="https://www.codewars.com/users/p_bara7a/badges/large" />
+
 <p align="center">
   <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pbara7a&theme=monokai" width="48%">
 &nbsp; &nbsp;
