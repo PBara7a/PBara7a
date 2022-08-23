@@ -1,19 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barata</h1>
 <h3 align="center">A full stack developer based in Belfast.</h3>
 
-- 🔭 I’m currently working on [Chat In The Box](https://github.com/PBara7a/chat-app-client). And also a Node script that automates some google sheet file editing (read, copy, edit, merge cells/rows)
-
 - 💻 Visit my portfolio website [here](https://pbara7a.github.io/portfolio)
-
-- 🌱 I’m currently learning **Websockets**
-
-- 🤔 I’m looking for help with finding an opportunity to start my career in tech
-
-- 📫 How to reach me: [Message me](https://www.linkedin.com/in/paulo-barata/)
-
-- 😄 Pronouns: He/Him
-
-- ⚡ Fun fact: A one-day-old cockroach can run almost as fast as its parents
 
 <h3>Connect with me:</h3>
 <a href="https://linkedin.com/in/paulo-barata" target="blank">
