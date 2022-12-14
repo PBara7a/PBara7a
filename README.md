@@ -27,7 +27,7 @@
 ##
 
 <p align="center">
-  <img alt="bubbles" src="https://user-images.githubusercontent.com/72984740/207435364-d1151f39-a7e8-46e3-8ce8-0c704dda3869.gif" width="75%" />
+  <img alt="bubbles" src="https://user-images.githubusercontent.com/72984740/207435364-d1151f39-a7e8-46e3-8ce8-0c704dda3869.gif" width="80%" />
 </p>
 
 <p align="center">
