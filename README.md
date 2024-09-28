@@ -9,19 +9,6 @@
 * 🌍 24 countries and counting
 * 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/paulo-barata/)
 
-## Tools
-
-![My Skills](https://skills.thijs.gg/icons?i=typescript,nodejs,react,nextjs,java,python,prisma,postgres,express,vscode,git,github,jest,html,css)
- 
-
-## Stats:
-  
-<div>
-  <img alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=pbara7a&theme=monokai" width="49%" />
-&nbsp;
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pbara7a&count_private=true&theme=monokai&show_icons=true" width="49%" />
-</div>
-
 <img align="center" src="https://www.codewars.com/users/p_bara7a/badges/large" />
 
 ##
