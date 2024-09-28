@@ -3,21 +3,6 @@
 # Hi 👋, I'm Barata 
 
 * 📍 Based in Belfast, UK
-* 🎓 BSc in Computing and IT (Software route) Loading...
-* 💻 Boolean UK graduate - Full Stack Software Development
+* 🎓 BSc in Computing and IT
 * 🗣 English & Portuguese
-* 🌍 24 countries and counting
 * 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/paulo-barata/)
-
-<img align="center" src="https://www.codewars.com/users/p_bara7a/badges/large" />
-
-##
-
-<p align="center">
-  <img alt="bubbles" src="https://user-images.githubusercontent.com/72984740/207435364-d1151f39-a7e8-46e3-8ce8-0c704dda3869.gif" width="80%" />
-</p>
-
-<p align="center">
-  <img alt="linda" src="https://user-images.githubusercontent.com/72984740/207435344-877459cd-de9c-477a-b44e-086670247541.gif" width="40%" />
-  <img alt="love technology" src="https://user-images.githubusercontent.com/72984740/207434564-2856ced3-9b1d-4278-a85b-ee1483efd967.gif" width="40%" />
-</p>
