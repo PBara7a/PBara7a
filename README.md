@@ -3,6 +3,4 @@
 #
 
 * 📍 Based in Belfast, UK
-* 🎓 BSc in Computing and IT
-* 🗣 English & Portuguese
-* 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/paulo-barata/)
+* 💻 Software Engineer @ CreateFuture
